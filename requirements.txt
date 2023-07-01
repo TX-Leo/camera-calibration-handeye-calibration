@@ -1,0 +1,5 @@
+opencv-python
+apriltag
+numpy
+asyncio
+transforms3d

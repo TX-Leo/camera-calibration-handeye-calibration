@@ -1,0 +1,33 @@
+# ignore some docs
+./else
+
+# Ignore .idea folder
+**/.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python compiled files
+__pycache__/
+
+# Ignore logs and cache files
+*.log
+*.cache
+
+# Ignore environment and configuration files
+.env
+.env.*
+config.ini
+config.json
+
+# Ignore package distribution files
+*.egg-info/
+dist/
+build/
+
+# Ignore compiled binary files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore any other files or folders as needed
