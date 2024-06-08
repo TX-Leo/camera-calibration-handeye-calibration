@@ -1,7 +1,8 @@
 # 自动化高精度【相机标定】&【手眼标定(眼在手外)】【偏移标定】-Python3
 Camera Calibration and HandEye Calibration and Offset Calibration
 
-by TX-Leo 王治
+by Leo Z. Wang
+tx.leo.wz@gmail.com
 2023.04.23-06.30
 
 ![Alt text](docs/%E6%89%8B%E7%9C%BC%E6%A0%87%E5%AE%9A-%E7%9C%BC%E5%9C%A8%E6%89%8B%E5%A4%96.png)
