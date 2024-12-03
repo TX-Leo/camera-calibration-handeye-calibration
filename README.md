@@ -9,15 +9,15 @@ tx.leo.wz@gmail.com
 
 ---
 
-我的个人主页：tx-leo.github.io
+我的个人主页：https://tx-leo.github.io
 
 这是我大三在享刻智能EncoSmart Technology实习做的一部分工作
 
 如果有问题可以加我的微信tx-leo-wz
 
-享刻智能EncoSmart Technology公司主页：encosmart.com
+享刻智能EncoSmart Technology公司主页：https://encosmart.com
 
-我的产品LAVA：https://www.encosmart.com/products/Lava
+我们的产品LAVA：https://www.encosmart.com/products/Lava
 
 ---
 
