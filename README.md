@@ -1,14 +1,25 @@
 # 自动化高精度【相机标定】&【手眼标定(眼在手外)】&【偏移标定】-Python3
 Camera Calibration and HandEye Calibration and Offset Calibration
+
 by Zhi (Leo) Wang
+
 tx.leo.wz@gmail.com
+
 2023.04.23-06.30
 
+---
+
 我的个人主页：tx-leo.github.io
+
 这是我大三在享刻智能EncoSmart Technology实习做的一部分工作
+
 如果有问题可以加我的微信tx-leo-wz
+
 享刻智能EncoSmart Technology公司主页：encosmart.com
+
 我的产品LAVA：https://www.encosmart.com/products/Lava
+
+---
 
 ![Alt text](docs/%E6%89%8B%E7%9C%BC%E6%A0%87%E5%AE%9A-%E7%9C%BC%E5%9C%A8%E6%89%8B%E5%A4%96.png)
 
